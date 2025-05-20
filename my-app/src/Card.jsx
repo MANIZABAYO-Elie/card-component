@@ -2,7 +2,8 @@
 const Card = ()=>{
 
     return(
-        <h1>card</h1>
+        <h1>Hello world</h1>
     )
 
 }
+export default Card
